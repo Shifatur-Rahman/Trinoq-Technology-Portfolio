@@ -1,0 +1,54 @@
+{
+  "name": "trinoq",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-brands-svg-icons": "^5.13.0",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.9",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.1",
+    "@testing-library/user-event": "^7.2.1",
+    "animate.css": "^3.7.2",
+    "bootstrap": "^4.4.1",
+    "google-maps-react": "^2.0.2",
+    "mdbreact": "^4.25.4",
+    "react": "^16.13.0",
+    "react-animated-slider": "^2.0.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-countup": "^4.3.3",
+    "react-dom": "^16.13.0",
+    "react-google-maps": "^9.4.5",
+    "react-magic-slider-dots": "^1.2.0",
+    "react-particles-js": "^2.7.1",
+    "react-scripts": "3.4.0",
+    "react-scroll": "^1.7.16",
+    "react-slick": "^0.25.2",
+    "react-spring": "^8.0.27",
+    "react-visibility-sensor": "^5.1.1",
+    "rebass": "^4.0.7",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
